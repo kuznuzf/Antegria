@@ -13,6 +13,12 @@ body {
 		height: 250px;
 		width: 100%;
 	}
-	
+	div.map{
+		margin: 15px;
+		background: url(map.png);
+		height: 469px;
+		width: 489px;
+		border: black solid 5px;
+	}
 	
 }
