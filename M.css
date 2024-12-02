@@ -20,5 +20,29 @@ body {
 		width: 489px;
 		border: black solid 5px;
 	}
-	
+	td#og{
+		padding-top: 217px;
+		padding-bottom: 0px;
+		padding-left: 121px;
+	}
+	td#sm{
+		padding-top: 26px;
+		padding-bottom: 0px;
+		padding-left: 144px;
+	}
+	td#gg{
+		padding-top: 23px;
+		padding-left: 50px;
+		padding-bottom: 0px;
+	}
+	table.news{
+		background: rgb(157, 193, 230);
+		text-align: center;
+		margin: 10px;
+	}
+	div.n1{
+		border: blue solid 2px;
+		padding: 14px;
+		margin: 2%;
+	}
 }
