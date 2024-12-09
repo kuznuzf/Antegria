@@ -20,6 +20,9 @@ body {
 		width: 489px;
 		border: black solid 5px;
 	}
+	div#instart{
+		margin: 10px;
+	}
 	td#og{
 		padding-top: 217px;
 		padding-bottom: 0px;
