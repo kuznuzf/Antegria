@@ -16,6 +16,8 @@ body {
 	div#reclam{
 		float: left;
 		margin: 10px;
+		border: 2px solid blue;
+		width: 10%;
 	}
 	div.map{
 		margin: 15px;
