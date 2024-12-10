@@ -14,10 +14,10 @@ body {
 		width: 100%;
 	}
 	div#reclam{
-		float: left;
+		float: right;
 		margin: 10px;
 		border: blue solid 2px;
-		width: 10%;
+		width: 50px;
 	}
 	div.map{
 		margin: 15px;
