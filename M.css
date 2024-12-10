@@ -13,6 +13,10 @@ body {
 		height: 250px;
 		width: 100%;
 	}
+	div#reclam{
+		float: left;
+		margin: 10px;
+	}
 	div.map{
 		margin: 15px;
 		background: url(map.png);
