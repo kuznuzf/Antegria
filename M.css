@@ -50,7 +50,14 @@ body {
 	}
 	div.n1{
 		border: blue solid 2px;
-		padding: 14px;
-		margin: 2%;
+		padding: 10px;
+		margin: 10px;
+	}
+	td.newsbord{
+		border: darkblue solid 2px;
+		padding: 10px;
+	}
+	td.downmenu{
+		padding: 10px;
 	}
 }
