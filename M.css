@@ -60,4 +60,7 @@ body {
 	td.downmenu{
 		padding: 10px;
 	}
+	img.nfoto{
+                height:100px;
+	}
 }
